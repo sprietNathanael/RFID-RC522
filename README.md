@@ -1,7 +1,7 @@
 RFID-RC522
 ==========
 
-Codes utiles pour module RFID-RC522
+Codes utiles pour le module RFID-RC522
 
 | Pins | SPI      | UNO  | Mega2560 | Leonardo |
 | ---- |:--------:|:----:|:--------:|:--------:|
