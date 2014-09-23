@@ -1,3 +1,6 @@
+// Ce petit code permet une utilisation basique du module et des tags (détection simple d'un tag)
+// Toute amélioration est la bienvenue, n'hésitez pas ~
+
 #include <MFRC522.h>
 #include <SPI.h>
 #define SAD 10
