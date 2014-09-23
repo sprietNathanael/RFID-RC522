@@ -15,3 +15,5 @@ Codes utiles pour module RFID-RC522
 | 8    | +3.3V    |  3V3 |  3V3     | 3.3V     |
 `*` Pas obligatoire 
 `1` header ICPS
+
+Librairies pour le module ---> puu.sh/bL869.zip
