@@ -1,5 +1,6 @@
 // Ce petit code permet une utilisation basique du module et des tags (détection simple d'un tag)
 // Toute amélioration est la bienvenue, n'hésitez pas ~
+// Ce code modifié provient de ljios : https://github.com/ljos/MFRC522
 
 #include <MFRC522.h>
 #include <SPI.h>
