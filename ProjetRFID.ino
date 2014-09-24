@@ -22,7 +22,7 @@ byte version = nfc.getFirmwareVersion();
 if (! version) {
 
 // Si le module n'est pas trouvé
-  Serial.print("Module introuvable :(");
+  Serial.print("Module introuvable");
 while(1); //Stop 
 }
 
